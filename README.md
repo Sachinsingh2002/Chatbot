@@ -13,11 +13,11 @@ This is a simple web application that implements a chatbot using Flask, a Python
 
 2. Install the required dependencies by running the following command in your terminal:
 
-pip install flask
+* pip install flask
 
 3. Run the application using the following command:
 
-python app.py
+* python app.py
 
 4. Open your web browser and visit http://localhost:5000 to access the chatbot interface.
 
